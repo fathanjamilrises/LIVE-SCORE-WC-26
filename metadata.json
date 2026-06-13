@@ -1,0 +1,6 @@
+{
+  "name": "LiveScore WC26",
+  "description": "Platform skor live & informasi Piala Dunia FIFA 2026 bergaya Neo-Brutalism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
